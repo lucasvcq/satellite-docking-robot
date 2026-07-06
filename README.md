@@ -34,3 +34,5 @@ Team of 25 students over one semester. I was responsible for the **entire softwa
 ## Context
 
 School project — ICAM, 2nd year engineering, group project (25 students, 1 semester).
+
+> Note: source code comments, the full project report, and documentation are in French (school requirement). This README provides an English summary of the project.
